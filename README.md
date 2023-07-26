@@ -2,7 +2,7 @@
 
 *By Yang Yu, Yi Zhang, Zeyu Cheng, Zhe Song, Chengkai Tang*.
 
-**The official PyTorch implementation of "MCA: Multidimensional collaborative attention in deep convolutional neural networks for image recognition".**
+***The official PyTorch implementation of "MCA: Multidimensional collaborative attention in deep convolutional neural networks for image recognition".***
 
 
 ## Approach
