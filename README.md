@@ -1,8 +1,10 @@
 # Multidimensional Collaborative Attention Module
 
-By Yang Yu, Yi Zhang, Zeyu Cheng, Zhe Song, Chengkai Tang.
+*By Yang Yu, Yi Zhang, Zeyu Cheng, Zhe Song, Chengkai Tang*.
 
-The official PyTorch implementation of "MCA: Multidimensional collaborative attention in deep convolutional neural networks for image recognition".
+*[Northwestern Polytechnical University]*
+
+**The official PyTorch implementation of "MCA: Multidimensional collaborative attention in deep convolutional neural networks for image recognition".**
 
 
 ## Approach
