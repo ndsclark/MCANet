@@ -86,15 +86,15 @@
 ## Citation
 If you find MCA useful in your research, please consider citing:
 
-@article{yu2023mca,
-	title={MCA: Multidimensional collaborative attention in deep convolutional neural networks for image recognition},
-	author={Yu, Yang and Zhang, Yi and Cheng, Zeyu and Song, Zhe and Tang, Chengkai},
-	journal={Engineering Applications of Artificial Intelligence},
-	volume={126},
-	pages={107079},
-	year={2023},
-	publisher={Elsevier}
-	}
+    @article{2023mca,
+        title={MCA: Multidimensional collaborative attention in deep convolutional neural networks for image recognition},
+        author={Yu, Yang and Zhang, Yi and Cheng, Zeyu and Song, Zhe and Tang, Chengkai},
+        journal={Engineering Applications of Artificial Intelligence},
+        volume={126},
+        pages={107079},
+        year={2023},
+        publisher={Elsevier}
+    }
 
 
 ## Contact Information
